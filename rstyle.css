@@ -1,0 +1,49 @@
+
+        img{
+            display: block; 
+            margin: auto; 
+            height: 300px; 
+        }
+        body{
+            width: 600px;
+            margin: auto; 
+        }
+        html{
+            background-color:#DEF9D7;
+            color:rgb(248, 121, 155); 
+            
+        }
+        h1 {
+            font-size: 50px;
+            text-align: center;
+            color:rgb(240, 194, 240); 
+            font-family: 'Nabla', cursive;
+        }
+        p, li {
+            font-size: 16px;
+            line-height: 2;
+            letter-spacing: 1px;
+        }
+        ul.box{
+            display : block; 
+            margin: 10px; 
+            padding: 20px;
+            border: rgb(98, 198, 232) dotted 7px;
+            font-size: xx-large;
+        }
+        /* Class selectors (start with .) */
+        .listholder{
+            display: block; 
+            
+        }
+        .have{
+            background-color: rgb(250, 112, 112);
+        }
+        .recent{
+            background-color: aliceblue;
+        }
+        
+        
+        .hidden{
+            display: none;
+        }   
